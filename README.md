@@ -58,7 +58,6 @@ To do so, complete the following steps:
 
 Using your knowledge of TensorFlow and Keras, optimize your model to improve the model's accuracy. Even if you do not successfully achieve a better accuracy, you'll need to demonstrate at least two attempts to optimize the model. You can include these attempts in your existing notebook. Or, you can make copies of the starter notebook in the same folder, rename them, and code each model optimization in a new notebook. 
 
-> **Note** You will not lose points if your model does not achieve a high accuracy, as long as you make at least two attempts to optimize the model.
 
 To do so, complete the following steps:
 
